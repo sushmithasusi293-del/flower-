@@ -1,0 +1,96 @@
+.f11 {
+    width: 100%;
+    display: flex;
+    background-color: black;
+    height: 400px;
+}
+
+.g1 {
+    width: 28%;
+
+}
+
+.g2 {
+    width: 15%;
+
+    margin-top: 100px;
+    color: white;
+    margin-left: 50px;
+}
+
+.g3 {
+    width: 12%;
+
+    margin-top: 100px;
+    color: white;
+    margin-left: 30px;
+}
+
+.g4 {
+    width: 15%;
+
+    margin-top: 100px;
+    color: white;
+    margin-left: 20px;
+
+}
+
+.g5 {
+    width: 30%;
+
+    margin-top: 100px;
+    color: white;
+
+}
+
+.g1 p {
+    color: white;
+    margin-left: 80px;
+    margin-top: 30px;
+}
+
+.g1 img {
+    margin-top: 100px;
+    margin-left: 80px;
+}
+
+.g2 p {
+    margin-top: 30px;
+    line-height: 5px;
+}
+
+.g3 p {
+    margin-top: 30px;
+    line-height: 5px;
+}
+
+.g4 p {
+    margin-top: 30px;
+    line-height: 5px;
+}
+
+.g5 p {
+    margin-top: 30px;
+    line-height: 5px;
+}
+
+.facebook {
+    color: aliceblue;
+    margin-left: 80px;
+    padding: 10px;
+}
+
+.f12 {
+    text-align: center;
+    color: #E72463;
+
+}
+
+.f12 p {
+    padding-top: 20px;
+}
+
+.f12 {
+    height: 90px;
+    background-color: rgb(24, 23, 23);
+}

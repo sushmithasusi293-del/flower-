@@ -1,0 +1,81 @@
+ul {
+    display: flex;
+    list-style: none;
+    margin-top: 40px;
+
+}
+
+li img {
+    margin-right: 130px;
+
+}
+
+li {
+    margin-right: 10px;
+    font-weight: bold;
+    padding-left: 30px;
+
+}
+
+.b1 {
+    height: 50px;
+    background-color: black;
+}
+
+.row1 {
+    width: 100%;
+
+    display: flex;
+    overflow: hidden;
+
+}
+
+.col1 {
+    width: 20%;
+
+}
+
+.col1 img {
+    margin-left: 80px;
+    margin-top: 25px;
+
+
+}
+
+.col2 {
+    width: 35%;
+
+
+}
+
+.col3 {
+    width: 45%;
+    margin-top: 35px;
+
+    display: flex;
+
+}
+
+.c1 {
+    width: 15%;
+    padding-left: 350px;
+
+}
+
+.c2 {
+    width: 15%;
+    padding-left: 40px;
+}
+
+.c3 {
+    width: 15px;
+
+}
+
+.navv {
+    height: 200px;
+   
+
+}
+
+

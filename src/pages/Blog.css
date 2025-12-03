@@ -1,0 +1,123 @@
+.o1 {
+    margin-top: 30px;
+    overflow: hidden;
+}
+
+.o1 img {
+    width: 1500px;
+    height: 300px;
+}
+
+.o1 p {
+    text-align: center;
+    position: relative;
+    top: -170px;
+
+}
+
+
+.ho {
+    font-family: "Pinyon Script", cursive;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 30px;
+}
+
+.background {
+    /* height: 500px; */
+    margin: 100px;
+    overflow: hidden;
+}
+
+.blog {
+    height: 200px;
+    overflow: hidden;
+
+}
+
+.st {
+    margin-left: 90px;
+}
+
+.pt {
+    margin-left: 90px;
+    margin-top: 40px;
+}
+
+.pt1 {
+
+    margin-left: 250px;
+    padding-right: 70px;
+    margin-top: 50px;
+}
+
+.boxxx {
+    width: 1200px;
+
+    border: 2px solid;
+    border-color: rgb(247, 234, 212);
+    margin-left: 90px;
+}
+
+.head1 {
+    margin-top: 60px;
+    margin-left: 90px;
+    font-size: 25px;
+}
+
+.form1 input {
+    width: 1200px;
+    margin-left: 90px;
+    height: 150px;
+    margin-top: 40px;
+}
+
+
+
+.oc9 {
+    width: 100%;
+    display: flex;
+
+}
+
+.oc8 {
+    width: 50%;
+
+    padding-top: 90px;
+    padding-left: 100px;
+
+}
+
+
+
+.oc7 {
+    width: 50%;
+}
+
+.text3 input {
+    width: 450px;
+    height: 40px;
+    margin-top: 20px;
+}
+
+.text4 input {
+    width: 450px;
+    height: 40px;
+    margin-top: 110px;
+}
+
+.btn1 {
+    background-color: #E72463;
+    margin-left: 100px;
+    width: 1200px;
+    margin-top: 50px;
+    height: 50px;
+    border:none;
+
+}
+
+.btn1:hover {
+
+    background-color: black;
+    color: aliceblue;
+}

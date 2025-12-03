@@ -1,0 +1,64 @@
+.o1 {
+    overflow: hidden;
+}
+
+.o1 img {
+    width: 1500px;
+    height: 300px;
+}
+
+.o1 p {
+    text-align: center;
+    position: relative;
+    top: -170px;
+
+}
+
+
+.ho {
+    font-family: "Pinyon Script", cursive;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 30px;
+}
+
+.s {
+    width: 100%;
+    display: flex;
+}
+
+.so1 {
+    width: 50%;
+    
+    height: 400px;
+    padding-left: 100px;
+    margin-top: 50px;
+    
+}
+
+.so2 {
+    width: 50%;
+    background-color: black;
+}
+.so1 button {
+    background-color: #E72463;
+    border: none;
+    color: aliceblue;
+
+}
+.so1 h6 {
+    font-size: 40px;
+    line-height: 80px;
+}
+.so1 p {
+    line-height: 8px;
+    color: gray;
+}
+.so1 h1{
+    font-size: 20px;
+}
+.f98{
+    margin-top: 120px;
+}
+
+
